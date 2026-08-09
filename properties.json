@@ -52,6 +52,25 @@
     "rooms": 3,
     "bathrooms": 2
   },
+   {
+    "id": 4,
+    "title": "📍 تقاطع كورنيش بلازا – موقع حيوي وقريب من كل الخدمات🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 1400000,
+   "images": [
+    "img/items/item2/7.jpg",
+    "img/items/item2/9.jpg",
+    "img/items/item2/6.jpg",
+    "img/items/item2/8.jpg",
+    "img/items/item1/item 3/10.jpeg"
+    ],
+    "description": "  (تشطيب سوبر لوكس) / تهوية ممتازة بدون مناور مباني حديثة (2002) رخصة / حصة في الأرض🚨🚨🚨",
+    "area": 110,
+    "rooms": 2,
+    "bathrooms": 1
+  },
   {
     "id": 3,
     "title": "شقة مودرن",
