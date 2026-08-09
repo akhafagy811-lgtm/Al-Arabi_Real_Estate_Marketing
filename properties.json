@@ -102,6 +102,21 @@
     "rooms": 3,
     "bathrooms": 1
   },
+   {
+    "id": 7,
+    "title": "😍 شقة ممتازه كورنيش الجلاء رئيسي  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 2850000,
+   "images": [
+    "img/items/item1/item 3/WhatsApp Image 2026-08-08 at 1.54.47 AM.jpeg"
+    ],
+    "description": "✨ تشطيب:  سوبر لوكس✨ تقسيم : (٣ غرف + رسيبشن ٣قطع ) 📍 قريبة من جميع الخدمات (مدارس – مستشفيات – مواصلات)🚨🚨🚨",
+    "area": 125,
+    "rooms": 3,
+    "bathrooms": 1
+  },
   {
     "id": 3,
     "title": "شقة مودرن",
