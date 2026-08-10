@@ -393,6 +393,90 @@
     "area": 120,
     "bathrooms": 0
   },
+          {
+    "id": 25,
+    "title":" محل بالاستاد الرئيسي عمارات المحافظه  🚨 ",
+    "type": "محل",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 8000000,
+   "images": [
+    "img/items/item2/images 4.jfif"
+    ],
+    "description": " تشطيب سوبر لوكس مباني 2021/كامل عدادات /رخصه وحصه بالارض 🚨🚨🚨",
+    "area": 43,
+    "bathrooms": 0
+  },
+          {
+    "id": 26,
+    "title":" محل بشارع ابوبكر الصديق من رياض غرابه     🚨 ",
+    "type": "محل",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 2250000,
+   "images": [
+    "img/items/item2/images 4.jfif"
+    ],
+    "description": " تشطيب سوبر لوكس /كامل عدادات /رخصه وحصه بالارض 🚨🚨🚨",
+    "area": 75,
+    "bathrooms": 0
+  },
+          {
+    "id": 27,
+    "title":" ميزان بشارع النادي     🚨 ",
+    "type": "محل",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 7800000,
+   "images": [
+    "img/items/item2/images 4.jfif"
+    ],
+    "description": " نص تشطيب   🚨🚨🚨",
+    "area": 260,
+    "bathrooms": 0
+  },
+          {
+    "id": 28,
+    "title":" صيدليه بشارع البطراويشي     🚨 ",
+    "type": "محل",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 2000000,
+   "images": [
+    "img/items/item2/images 4.jfif"
+    ],
+    "description": " تشطيب سوبر لوكس ومجهزه من الداخل /كامل عدادات /رخصه  🚨🚨🚨",
+    "area": 35,
+    "bathrooms": 0
+  },
+          {
+    "id": 29,
+    "title":" محل بشارع عبي مبارك      🚨 ",
+    "type": "محل",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 7200000,
+   "images": [
+    "img/items/item2/images 4.jfif"
+    ],
+    "description": " تشطيب سوبر لوكس مباني حديثه /كامل عدادات /رخصه وحصه بالارض 🚨🚨🚨",
+    "area": 90,
+    "bathrooms": 0
+  },
+          {
+    "id": 30,
+    "title":" محل بشارع نادي المعلمين     🚨 ",
+    "type": "محل",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 25350000,
+   "images": [
+    "img/items/item2/images 4.jfif"
+    ],
+    "description": " تشطيب سوبر لوكس /كامل عدادات /رخصه وحصه بالارض 🚨🚨🚨",
+    "area": 390,
+    "bathrooms": 0
+  },
   {
     "id": 3,
     "title": "شقة مودرن",
