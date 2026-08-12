@@ -308,6 +308,74 @@
     "rooms": 3,
     "bathrooms": 2
   },
+     {
+    "id": 41,
+    "title": " شقه مميزه جدا الاستاد بجوار روح دمشق 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 7584000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": " تشطيب سوبر لوكس / رسيبشن 3 قطع/مسجل شهر عقاري🚨🚨🚨 ",
+    "area": 158,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+     {
+    "id": 42,
+    "title": "  فيلا داخل برج مميزه جدا طريق اسكندريه الزراعي بجوار السلاب🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 4300000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": " تشطيب سوبر لوكس / رسيبشن 3 قطع/مباني حديثه/ سلم داخلي🚨🚨🚨 ",
+    "area": 209,
+    "rooms": 3,
+    "bathrooms": 3
+  },
+     {
+    "id": 43,
+    "title": " شقه مميزه جدا بشارع بأخر بطرس مع الكورنيش 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 4320000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": " نص تشطيب  / الدور التاسع اخير / اسانسير/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 160,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+     {
+    "id": 44,
+    "title": " شقه مميزه جدا بشارع عنتر بن شداد 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 4100000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": " نص تشطيب  / الدور السابع اخير/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 152,
+    "rooms": 3,
+    "bathrooms": 2
+  },
     {
     "id": 10,
     "title":"محل بشارع الفاتح الرئيسي🚨 ",
