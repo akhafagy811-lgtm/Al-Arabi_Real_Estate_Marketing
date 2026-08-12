@@ -179,7 +179,7 @@
     "status": "تمليك",
     "location": "طنطا ",
     "price": 6125000,
-       "images": [
+    "images": [
     "img/items/item1/استاد3.jpeg"
     "img/items/item1/استاد2.jpeg"
     "img/items/item1/استاد1.jpeg"
@@ -210,7 +210,7 @@
     "type": "شقة",
     "status": "تمليك",
     "location": "طنطا ",
-         "images": [
+    "images": [
     "img/items/item1/استاد3.jpeg"
     "img/items/item1/استاد2.jpeg"
     "img/items/item1/استاد1.jpeg"
@@ -228,7 +228,7 @@
     "status": "تمليك",
     "location": "طنطا ",
     "price": 3900000,
-          "images": [
+     "images": [
     "img/items/item1/استاد3.jpeg"
     "img/items/item1/استاد2.jpeg"
     "img/items/item1/استاد1.jpeg"
@@ -245,7 +245,7 @@
     "status": "تمليك",
     "location": "طنطا ",
     "price": 6480000,
-          "images": [
+    "images": [
     "img/items/item1/استاد3.jpeg"
     "img/items/item1/استاد2.jpeg"
     "img/items/item1/استاد1.jpeg"
@@ -262,7 +262,7 @@
     "status": "تمليك",
     "location": "طنطا ",
     "price": 6480000,
-          "images": [
+     "images": [
     "img/items/item1/استاد3.jpeg"
     "img/items/item1/استاد2.jpeg"
     "img/items/item1/استاد1.jpeg"
@@ -279,7 +279,7 @@
     "status": "تمليك",
     "location": "طنطا ",
     "price": 6480000,
-          "images": [
+    "images": [
     "img/items/item1/استاد3.jpeg"
     "img/items/item1/استاد2.jpeg"
     "img/items/item1/استاد1.jpeg"
@@ -296,7 +296,7 @@
     "status": "تمليك",
     "location": "طنطا ",
     "price": 3000000,
-         "images": [
+    "images": [
     "img/items/item1/استاد3.jpeg"
     "img/items/item1/استاد2.jpeg"
     "img/items/item1/استاد1.jpeg"
@@ -305,7 +305,7 @@
     "area": 260,
     "rooms": 3,
     "bathrooms": 2
-  },
+    },
     {
     "id": 10,
     "title":"محل بشارع الفاتح الرئيسي🚨 ",
@@ -313,7 +313,7 @@
     "status": "تمليك",
     "location": "طنطا ",
     "price": 1850000,
-   "images": [
+    "images": [
     "img/items/item2/6.png"
     ],
     "description": " تشطيب سوبر لوكس /كامل عدادات / حمام/ رخصه وحصه بالارض مباني 2000✨ تم تخفيض السعررر لسرعه البيع 🚨🚨🚨",
