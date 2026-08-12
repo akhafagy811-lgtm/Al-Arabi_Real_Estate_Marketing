@@ -196,10 +196,8 @@
     "status": "تمليك",
     "location": "طنطا ",
     "price": 3266000,
-     "images": [
-    "img/items/item1/استاد.jpeg",
-    "img/items/item1/استاد.jpeg",
-    "img/items/item1/استاد.jpeg"
+    "images": [
+    "img/items/item1/item 3/15.png"
     ],
     "description": " كامله عدادات / دور اول علوي✨3/4 تشطيب  /رخصه وحصه بالارض✨ تم تخفيض السعررر لسرعه البيع 🚨🚨🚨",
     "area": 142,
@@ -371,23 +369,6 @@
     ],
     "description": " نص تشطيب  / الدور السابع اخير/ رسيبشن 3 قطع🚨🚨🚨 ",
     "area": 152,
-    "rooms": 3,
-    "bathrooms": 2
-  },
-   {
-    "id": 45,
-    "title": " شقه مميزه جدا خلف المقاولون العرب بشارع رياض غرابه 🏡",
-    "type": "شقة",
-    "status": "تمليك",
-    "location": "طنطا ",
-    "price": 3250000,
-    "images": [
-    "img/items/item1/استاد.jpeg",
-    "img/items/item1/استاد.jpeg",
-    "img/items/item1/استاد.jpeg"
-    ],
-    "description": "  تشطيب 3/4 / مباني 2013 / رسيبشن قطعتين/ رخصه وحصه بالارض/ تطل على شارع امامي وخلفي🚨🚨🚨 ",
-    "area": 142,
     "rooms": 3,
     "bathrooms": 2
   },
