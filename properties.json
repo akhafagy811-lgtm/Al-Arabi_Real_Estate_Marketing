@@ -372,6 +372,448 @@
     "rooms": 3,
     "bathrooms": 2
   },
+       {
+    "id": 45,
+    "title": " شقه مميزه جدا تقاطع من بطرس وحسن رضوان 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 4125000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس / الدورالاول / رسيبشن 2 قطع🚨🚨🚨 ",
+    "area": 165,
+    "rooms": 3,
+    "bathrooms": 1
+  },
+       {
+    "id": 46,
+    "title": " شقه مميزه جدا بشارع الاشرف مع كورنيش المرشحه 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 4000000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": " نص تشطيب  / الدور العاشر ليس اخير/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 160,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+       {
+    "id": 47,
+    "title": " شقه مميزه جدا بشارع بطرس امام المركز الطبي 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 3600000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / الدورالثالث/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 130,
+    "rooms": 2,
+    "bathrooms": 1
+  },
+       {
+    "id": 48,
+    "title": " شقه مميزه جدا بشارع 306 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 10500000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": " نص تشطيب  / الدور الرابع/ رسيبشن 5 قطع🚨🚨🚨 ",
+    "area": 300,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+       {
+    "id": 49,
+    "title": " شقه مميزه جدا بشارع سعيد بجوار مدرسه الزهراء  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 4100000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب الترا سوبر لوكس  / الدور الثالث/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 199,
+    "rooms": 4,
+    "bathrooms": 2
+  },
+       {
+    "id": 50,
+    "title": " شقه مميزه جدا امتداد شارع النادي بجوار كريز  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 3500000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / الدور السابع ليس اخير/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 165,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+       {
+    "id": 51,
+    "title": " شقه مميزه جدا بشارع سعيد مع عباس العقاد 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 3100000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": " نص تشطيب  / الدور الاول/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 130,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+       {
+    "id": 52,
+    "title": " شقه مميزه جدا بشارع مدرسه امين متفرع من الحلو 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 4000000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب الترا سوبر لوكس  / الدور السابع اخير/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 171,
+    "rooms": 2,
+    "bathrooms": 2
+  },
+         {
+    "id": 53,
+    "title": " شقه مميزه جدا بشارع الاشرف بجوار باباجونس 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 9000000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": " نص تشطيب  / الدور الثامن/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 250,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+         {
+    "id": 54,
+    "title": " شقه مميزه جدا بشارع البحرمع المعتصم  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 4100000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب الترا سوبر لوكس  / الدور الرابع/ رسيبشن 4 قطع🚨🚨🚨 ",
+    "area": 200,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+         {
+    "id": 55,
+    "title": " شقه مميزه جدا بشارع الحلو بجوار مشويات هندي 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 5500000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": " نص تشطيب  / الدور السابع اخير/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 185,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+           {
+    "id": 56,
+    "title": " شقه مميزه جدا باول طريق شوبر من حديقه الطفل 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 3200000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب الترا سوبر لوكس  / الدور الثالث/ رسيبشن 3 قطع/  كلها على الشارع ماسكه ناصيه/🚨🚨🚨 ",
+    "area": 156,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+           {
+    "id": 57,
+    "title": " شقه مميزه جدا بشارع الحلو مع محب 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 5500000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس / الدور الرابع/ رسيبشن 4 قطع🚨🚨🚨 ",
+    "area": 210,
+    "rooms": 4,
+    "bathrooms": 2
+  },
+           {
+    "id": 58,
+    "title": " شقه مميزه جدا بشارع النادي رئيسي  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 6500000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": " نص تشطيب  / الدور 11 اخير/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 240,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+           {
+    "id": 59,
+    "title": " شقه مميزه جدا بشارع الامام البوصيري 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 4000000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب3/4   / الدور السادس/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 160,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+           {
+    "id": 60,
+    "title": " شقه مميزه جدا بشارع قطيني 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 5280000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / الدور الثالث/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 165,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+           {
+    "id": 61,
+    "title": " شقه مميزه جدا بالكورنيش بجوار اسواق المنشاوي 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 5520000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": " نص تشطيب  / الدور الثاني / رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 184,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+           {
+    "id": 62,
+    "title": " شقه مميزه جدا بشارع النحاس  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 5500000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": " على الطوب / الدورالسادس/ رسيبشن 4 قطع🚨🚨🚨 ",
+    "area": 219,
+    "rooms": 3,
+    "bathrooms": 3
+  },
+           {
+    "id": 63,
+    "title": " شقه مميزه جدا بشارع البحر امام جامعه طنطا 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 7290000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": " نص تشطيب  / الدور العاشر ليس اخير/ رسيبشن 3 قطع/ واجهه على البحر🚨🚨🚨 ",
+    "area": 243,
+    "rooms": 4,
+    "bathrooms": 2
+  },
+           {
+    "id": 64,
+    "title": " شقه مميزه جدا بشارع ممتاز غرابه من حسان 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 3800000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / الدور السابع اخير/ رسيبشن 2 قطع🚨🚨🚨 ",
+    "area": 90,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+           {
+    "id": 65,
+    "title": " شقه مميزه جدا على السريع بجوار عطوان 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 3700000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  نص تشطيب  / الدور الثالث/ رسيبشن 3 قطع/يوجد باكيه جراج🚨🚨🚨 ",
+    "area": 200,
+    "rooms": 4,
+    "bathrooms": 2
+  },
+           {
+    "id": 66,
+    "title": " شقه مميزه جدا بشارع البنداري الرئيسي 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 6000000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب الترا سوبر لوكس  / الدور السابع / رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 170,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+           {
+    "id": 67,
+    "title": " شقه مميزه جدا بشارع حسن رضوان بجوار اسماك الجميل 🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 4590000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "   تشطيب الترا سوبر لوكس  / الدور الاول/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 165,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+           {
+    "id": 68,
+    "title": " شقه مميزه جدا بشارع السلطان مراد مع الامام البوصيري  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 4000000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / رخصه وحصه بالارض/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 137,
+    "rooms": 3,
+    "bathrooms": 2
+  },
+           {
+    "id": 69,
+    "title": " شقه مميزه جدا بشارع ابوبكر الصديق  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 6250000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / الدور السادس/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 235,
+    "rooms": 3,
+    "bathrooms": 1
+  },
+           {
+    "id": 70,
+    "title": " شقه مميزه جدا بشارع حسن رضوان امام المنشاوي  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 6000000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": " نص تشطيب  / الدور الثالث/ رسيبشن 3 قطع🚨🚨🚨 ",
+    "area": 205,
+    "rooms": 3,
+    "bathrooms": 2
+  },
     {
     "id": 10,
     "title":"محل بشارع الفاتح الرئيسي🚨 ",
