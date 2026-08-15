@@ -1154,6 +1154,261 @@
     "rooms": 3,
     "bathrooms": 1
   },
+            {
+    "id": 91,
+    "title": " شقه لقطه شارع الشرقاوي موازي لابن الفارض مع عبدالوهاب  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 1850000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / الدورالثالث /حصه بالارض🚨🚨🚨 ",
+    "area": 95,
+    "rooms": 2,
+    "bathrooms": 1
+  },
+            {
+    "id": 92,
+    "title": " شقه لقطه شارع حسن رضوان  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 900000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / الدورالارضي/بدون حصه🚨🚨🚨 ",
+    "area": 70,
+    "rooms": 3,
+    "bathrooms": 1
+  },
+            {
+    "id": 93,
+    "title": " شقه لقطه بنجف الجامعه بجوار الشيخ جمال  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 1500000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / الدورالثاني/حصه بالارض🚨🚨🚨 ",
+    "area": 80,
+    "rooms": 3,
+    "bathrooms": 1
+  },
+            {
+    "id": 94,
+    "title": " شقه لقطه شارع سعد الدين بجوار استوديو هوليود  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 2000000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / الدورالثالث/حصه بالارض🚨🚨🚨 ",
+    "area": 120,
+    "rooms": 3,
+    "bathrooms": 1
+  },
+            {
+    "id": 95,
+    "title": " شقه لقطه شارع يوسف الصديق تقاطع عثمان بن عفان بجوار كليه طب  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 1500000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / الدورالخامس/بدون حصه بالارض🚨🚨🚨 ",
+    "area": 104,
+    "rooms": 3,
+    "bathrooms": 1
+  },
+            {
+    "id": 96,
+    "title": " شقه لقطه شارع دير الناحيه موازي لشارع الرفاعي بجوار كشكول   🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 1100000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / الدورالاول/حصه بالارض🚨🚨🚨 ",
+    "area": 80,
+    "rooms": 2,
+    "bathrooms": 1
+  },
+            {
+    "id": 97,
+    "title": " شقه لقطه شارع السيد عبدالحافظ من سعيد  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 1800000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / الدورالرابع/حصه بالارض🚨🚨🚨 ",
+    "area": 100,
+    "rooms": 3,
+    "bathrooms": 1
+  },
+            {
+    "id": 98,
+    "title": " شقه لقطه شارع النحاس مع ميدان اسكندريه  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 1000000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / الدور12/حصه بالارض/اسانسير🚨🚨🚨 ",
+    "area": 80,
+    "rooms": 2,
+    "bathrooms": 1
+  },
+            {
+    "id": 99,
+    "title": " شقه لقطه شارع المعاهده جانبي الصواف  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 1800000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  على الطوب / الدورالخامس /حصه بالارض🚨🚨🚨 ",
+    "area": 120,
+    "rooms": 3,
+    "bathrooms": 1
+  },
+            {
+    "id": 100,
+    "title": " شقه لقطه طريق شوبر من الاستاد  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 1800000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  نص تشطيب   / الدورالثامن ليس اخير/حصه بالارض🚨🚨🚨 ",
+    "area": 103,
+    "rooms": 3,
+    "bathrooms": 1
+  },
+            {
+    "id": 101,
+    "title": " شقه لقطه شارع بن الفارض مع ميدان اسكندريه  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 1850000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  /حصه بالارض🚨🚨🚨 ",
+    "area": 85,
+    "rooms": 2,
+    "bathrooms": 1
+  },
+            {
+    "id": 102,
+    "title": " شقه لقطه شارع مكه متفرع من الامام الغزالي   🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 1850000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  على الطوب / الدورالسابع/حصه بالارض🚨🚨🚨 ",
+    "area": 115,
+    "rooms": 3,
+    "bathrooms": 1
+  },
+            {
+    "id": 103,
+    "title": " شقه لقطه اخر ابن الفارض بجوار كافيه التكيه  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 1500000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / الدورالرابع /حصه بالارض🚨🚨🚨 ",
+    "area": 105,
+    "rooms": 3,
+    "bathrooms": 1
+  },
+            {
+    "id": 104,
+    "title": " شقه لقطه شارع المدارس بجوار مديريه الري  🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 1600000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / الدورالارضي/حصه بالارض🚨🚨🚨 ",
+    "area": 125,
+    "rooms": 3,
+    "bathrooms": 1
+  },
+            {
+    "id": 105,
+    "title": " شقه لقطه شارع الخليل امام بوابه سيتي   🏡",
+    "type": "شقة",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 2000000,
+    "images": [
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg",
+    "img/items/item1/استاد.jpeg"
+    ],
+    "description": "  تشطيب سوبر لوكس  / الدورالخامس /حصه بالارض/يوجد تسهيلات حتى 6 شهور🚨🚨🚨 ",
+    "area": 90,
+    "rooms": 2,
+    "bathrooms": 1
+  },
     {
     "id": 10,
     "title":"محل بشارع الفاتح الرئيسي🚨 ",
