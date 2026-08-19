@@ -2282,11 +2282,11 @@
     "type": "أراضي",
     "status": "تمليك",
     "location": "طنطا ",
-    "price": 25350000,
+    "price": 65250000,
    "images": [
     "img/items/item2/أراضي6.webp"
     ],
-    "description": " تطل على 12شارع ويمكن تتجزء 435 و 435 🚨🚨🚨",
+    "description": " تطل على 3 شوارع ويمكن تتجزء 435 و 435 🚨🚨🚨",
     "area": 870,
     "bathrooms": 0
   },
@@ -2316,6 +2316,20 @@
     ],
     "description": " منطقه مميزه بها جميع الخدمات 🚨🚨🚨",
     "area": 485,
+    "bathrooms": 0
+  },
+                {
+    "id": 144,
+    "title":"قطعه أرض للبيع بجوار مصنع الكاوتش  🚨 ",
+    "type": "أراضي",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 5940000,
+   "images": [
+    "img/items/item2/أراضي5.jfif"
+    ],
+    "description": " منطقه مميزه بها جميع الخدمات 🚨🚨🚨",
+    "area": 220,
     "bathrooms": 0
   },
   {
