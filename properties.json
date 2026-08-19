@@ -2234,6 +2234,90 @@
     "area": 390,
     "bathrooms": 0
   },
+            {
+    "id": 138,
+    "title":"قطعه أرض للبيع خلف الداون تاون مباشر   🚨 ",
+    "type": "أراضي",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 45500000,
+   "images": [
+    "img/items/item1/new_shop_ad_6.png"
+    ],
+    "description": " بجوار قاعه مارسيليا 🚨🚨",
+    "area": 700,
+    "bathrooms": 0
+  },
+            {
+    "id": 139,
+    "title":" قطعه أرض للبيع شارع القذافي   🚨 ",
+    "type": "أراضي",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 14130000,
+   "images": [
+    "img/items/item1/new_shop_ad_6.png"
+    ],
+    "description": " بالقرب من الكورنيش 🚨🚨🚨",
+    "area": 157,
+    "bathrooms": 0
+  },
+            {
+    "id": 140,
+    "title":"قطعه أرض للبيع خلف المعهد العالي للحاسبات  🚨 ",
+    "type": "أراضي",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 25350000,
+   "images": [
+    "img/items/item1/new_shop_ad_6.png"
+    ],
+    "description": " على شارعين 8م و 10م كردون وبها شهاده صلاحيه 🚨🚨🚨",
+    "area": 135,
+    "bathrooms": 0
+  },
+              {
+    "id": 141,
+    "title":"قطعه أرض للبيع خلف خلف كافيه حماد امام شركه الكهرباء على السريع  🚨 ",
+    "type": "أراضي",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 25350000,
+   "images": [
+    "img/items/item1/new_shop_ad_6.png"
+    ],
+    "description": " تطل على 12شارع ويمكن تتجزء 435 و 435 🚨🚨🚨",
+    "area": 870,
+    "bathrooms": 0
+  },
+              {
+    "id": 142,
+    "title":"قطعه أرض للبيع شارع سعد لبده متفرع من الكورنيش  🚨 ",
+    "type": "أراضي",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 6800000,
+   "images": [
+    "img/items/item1/new_shop_ad_6.png"
+    ],
+    "description": " منطقه بها جميع الخدمات 🚨🚨🚨",
+    "area": 100,
+    "bathrooms": 0
+  },
+              {
+    "id": 143,
+    "title":"قطعه أرض للبيع خلف المماليك  🚨 ",
+    "type": "أراضي",
+    "status": "تمليك",
+    "location": "طنطا ",
+    "price": 12000000,
+   "images": [
+    "img/items/item1/new_shop_ad_6.png"
+    ],
+    "description": " منطقه مميزه بها جميع الخدمات 🚨🚨🚨",
+    "area": 485,
+    "bathrooms": 0
+  },
   {
     "id": 3,
     "title": "شقة مودرن",
